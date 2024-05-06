@@ -1,26 +1,52 @@
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Tokyoz!
+###
 
-  - 🌱 I am currently studying my final year in Systems Development
-</p>
+<p align="left">My name is Roger and I am a Brazilian developer. I have just over a year in the field working on small projects and personal projects to study and improve my skills.</p>
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imdeharoo/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-deharo-32b146235/)
+###
 
-<!-- GithubStats -->
-![RogerDeharo Github stats](https://github-readme-stats.vercel.app/api?username=RogerDeharo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
+<h2 align="left">I code with</h2>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Languages and Tools</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="python-logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" alt="django-logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="html5-logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="css3logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28" alt="javascript-logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="mysql-logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="aws-logo"  />
+</div>
+
+###
+<h2 align="left">About me</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RogerDeharo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RogerDeharo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left">✨ Studying since 2022<br>📚 I'm currently finishing high school<br>🎯 Goals: Get a job as a junior developer</p>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/325g177loejelmoi7mf5oxqsn">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2whdlowb6idlcsdk0kxrz3hlh&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
