@@ -42,7 +42,7 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/2whdlowb6idlcsdk0kxrz3hlh">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=2whdlowb6idlcsdk0kxrz3hlh&redirect=true" alt="Spotify recently played"  />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=2whdlowb6idlcsdk0kxrz3hlh&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
