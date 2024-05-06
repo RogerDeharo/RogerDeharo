@@ -13,8 +13,6 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="python-logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" alt="django-logo"  />
-  <img width="10" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="html5-logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="css3logo"  />
@@ -23,7 +21,6 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="mysql-logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="aws-logo"  />
 </div>
 
 ###
@@ -44,7 +41,7 @@
 ###
 
 <div align="left">
-  <a href="https://open.spotify.com/user/325g177loejelmoi7mf5oxqsn">
+  <a href="https://open.spotify.com/user/2whdlowb6idlcsdk0kxrz3hlh">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=2whdlowb6idlcsdk0kxrz3hlh&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
