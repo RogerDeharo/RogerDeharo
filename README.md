@@ -6,7 +6,8 @@
 
 ###
 <div>
-<img align="right" alt="emoji" src="https://cdn.discordapp.com/emojis/881208325084164126.gif?v=1">
+  <div style="display: inline_block"><br>
+  <img align="right" alt="emoji" src="https://cdn.discordapp.com/emojis/881208325084164126.gif?v=1">
 </div>
 <h2 align="left">I code with</h2>
 
