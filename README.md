@@ -1,16 +1,14 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-##
+###
 
 <p align="left">My name is Roger and I am a Brazilian developer. I have just over a year in the field working on small projects and personal projects to study and improve my skills.</p>
 
-##
+###
 
-<div>
-  <div style="display: inline_block"><br>
-  <img align="right" alt="emoji" src="https://cdn.discordapp.com/emojis/881208325084164126.gif?v=1">
-</div>
 <h2 align="left">I code with</h2>
+
+###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="python-logo"  />
