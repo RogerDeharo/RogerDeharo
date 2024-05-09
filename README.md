@@ -21,7 +21,6 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="mysql-logo"  />
   <img width="10" />
-  <img align="right" alt="Niko-hi" src="https://cdn.discordapp.com/emojis/881208325084164126.gif?v=1" size="10px">
 </div>
 
 ###
