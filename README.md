@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+##
 
 <p align="left">My name is Roger and I am a Brazilian developer. I have just over a year in the field working on small projects and personal projects to study and improve my skills.</p>
 
